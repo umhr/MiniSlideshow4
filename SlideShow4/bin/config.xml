@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+	<files>
+		<file>
+			<id>img0</id>
+			<type>image</type>
+			<url>images/img0.jpg</url>
+		</file>
+		<file>
+			<id>img1</id>
+			<type>image</type>
+			<url>images/img1.jpg</url>
+		</file>
+		<file>
+			<id>img2</id>
+			<type>image</type>
+			<url>images/img2.jpg</url>
+		</file>
+		<file>
+			<id>img3</id>
+			<type>image</type>
+			<url>images/img3.jpg</url>
+		</file>
+	</files>
+
+</data>
